@@ -1,10 +1,5 @@
 # Mô tả dự án Blockchain-based E-voting System
 
-Tài liệu này giúp người mới hiểu nhanh:
-- Dự án gồm những phần nào
-- Luồng hoạt động từ đăng nhập đến bỏ phiếu và kiểm chứng
-- Chức năng của các file/hàm quan trọng
-
 ---
 
 ## 1) Tổng quan kiến trúc
