@@ -1,0 +1,14 @@
+{
+  "name": "ethereum-voting",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --network development",
+    "migrate:reset": "truffle migrate --reset --network development"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}
+
